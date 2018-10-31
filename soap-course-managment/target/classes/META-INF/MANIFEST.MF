@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: soap-course-managment
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: kvsat
+Implementation-Vendor-Id: com.in28minutes.soap.webservices
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/soap-course-managment
+Created-By: Maven Integration for Eclipse
+
